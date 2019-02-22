@@ -1,6 +1,8 @@
-from lib.module import Module as fib
+#!/usr/bin/env python3
 
-print(fib)
+from lib.module import Module
+
+Module.printFib(1000)
 
 # fib.printFib(1000)
 
