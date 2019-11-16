@@ -16,3 +16,10 @@ def fun2(n):
 ```py
 $ python basic/1-import.py
 ```
+
+## Note
+
+### Packages : __init__.py
+
+ - Any directory with an __init__.py file is considered a Python package. 
+ - 
